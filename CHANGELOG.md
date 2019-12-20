@@ -1,5 +1,12 @@
 # Changelog
 
+### [4.2.5](https://www.github.com/googleapis/cloud-trace-nodejs/compare/v4.2.4...v4.2.5) (2019-12-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency semver to v7 ([#1168](https://www.github.com/googleapis/cloud-trace-nodejs/issues/1168)) ([b5811b5](https://www.github.com/googleapis/cloud-trace-nodejs/commit/b5811b567652def1fbf397a8fc776d96a4876a19))
+
 ### [4.2.4](https://www.github.com/googleapis/cloud-trace-nodejs/compare/v4.2.3...v4.2.4) (2019-12-06)
 
 
